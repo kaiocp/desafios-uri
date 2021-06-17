@@ -1,3 +1,3 @@
-# Desafios URI 
+# URI Challenges
 
-Este repositório tem o propósito de salvar todos os meus desafos feitos no URI usando a linguagem Python. 
+The purpose of this repository is to save my challenges from urionlinejudge.com and also to practice git and github commands.
