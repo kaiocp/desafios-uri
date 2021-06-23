@@ -12,11 +12,11 @@ equilateral_triangle = (a == b) and (b == c) and (c == a)
 isosceles_triangle = (a == b) or (b == c) or (c == a)
 
 if not_a_triangle:
-    print("NAO FORMA TRIANGULO ")
+    print("NAO FORMA TRIANGULO")
 if rectangle_triangle:
     print("TRIANGULO RETANGULO")
 if obtuse_triangle:
-    print("TRIANGULO OBTUSANGULO ")
+    print("TRIANGULO OBTUSANGULO")
 if acute_triangle:
     print("TRIANGULO ACUTANGULO")
 if equilateral_triangle:
