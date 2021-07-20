@@ -7,9 +7,9 @@ print(f"Media: {media:.1f}")
 
 if (media >= 7):
     print("Aluno aprovado.")
-if (media < 5):
+elif (media < 5):
     print("Aluno reprovado.")
-if ((media >= 5) and (media < 7)):
+elif ((media >= 5) and (media < 7)):
     print("Aluno em exame.")
     N5 = float(input())
     print(f"Nota do exame: {N5}")
